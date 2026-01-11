@@ -1,4 +1,4 @@
-h3 Instructions
+Instructions
 
 - Download the BDGS launcher exe file
 - Place it in the game folder
